@@ -1,0 +1,19 @@
+{
+  "name": "kindred-quilt-co-graphql-server",
+  "version": "0.0.1",
+  "description": "GraphQL Server for kindredquiltco.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchawest/kindred-quilt-co.git"
+  },
+  "author": "Mitchell West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchawest/kindred-quilt-co/issues"
+  },
+  "homepage": "https://github.com/mitchawest/kindred-quilt-co#readme"
+}
